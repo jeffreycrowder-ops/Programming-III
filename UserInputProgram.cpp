@@ -45,7 +45,7 @@ int main() {
 
         // check for empty inputs
         if (input1.empty() || input2.empty() || input3.empty()) {
-            cerr << "Error: Please make sure inputs are not left blank." << endl;
+            cout << "\nError: Please make sure inputs are not left blank." << endl;
             cout << "Please Try Again.\n\n";
         } else {
             break; // all inputs valid, exit loop
