@@ -1,0 +1,9 @@
+Please be sure to append your data to this text file.
+
+If these first three lines are deleted, then your program is not functioning as expected.
+
+
+Name: Jeff Crowder
+Date: 10-18-2026
+Favorite Color: Green
+-------------------------
